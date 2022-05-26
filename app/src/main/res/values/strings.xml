@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiceRollerGaming</string>
+    <string name="undecided">Undecided</string>
+    <string name="result">Result</string>
+    <string name="roll">Roll</string>
+    <string name="diceone">DiceOne</string>
+    <string name="dicetwo">DiceTwo</string>
+    <string name="dicethree">DiceThree</string>
+    <string name="dicefour">DiceFour</string>
+    <string name="roll2">Roll</string>
+</resources>
